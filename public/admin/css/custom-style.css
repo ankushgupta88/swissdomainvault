@@ -1,0 +1,11 @@
+.unsuccess-msg{
+    color: red !important;
+}
+.success-msg{
+    color: green !important;
+}
+
+.form-check{
+    background: #87828240;
+    border-radius: 5px;
+}
